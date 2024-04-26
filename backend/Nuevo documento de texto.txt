@@ -1,0 +1,7 @@
+http://localhost/ApiRestKevinGaraje/get_all_vehiculo.php
+
+http://localhost/ApiRestKevinGaraje/create_vehiculo.php?placa=1234567&marca=volvo&modelo=1980&estado=reparado
+
+http://localhost/ApiRestKevinGaraje/delete_vehiculo.php?id=2
+
+http://localhost/ApiRestKevinGaraje/update_vehiculo.php?id=1&placa=123123&marca=toyota&modelo=1999&estado=repasradfo
